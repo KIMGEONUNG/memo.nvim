@@ -1,6 +1,6 @@
 # Memo.nvim
  
-Simple memo interface for a file.
+Simple memo interface to files.
 
 ![alt text](assets/example.gif) 
 
